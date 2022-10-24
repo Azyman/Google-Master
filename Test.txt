@@ -1,2 +1,4 @@
 #Am testing git fetch
-I am writing this code to be fetched using git fetch
+I am writing this code to be fetched using git fetch. Now I want to push to git hub.
+
+
